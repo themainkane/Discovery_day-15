@@ -1,0 +1,8 @@
+.green_white_alert {
+  background-color: green;
+  color: white;
+}
+
+.close__alert {
+  display: none;
+}
